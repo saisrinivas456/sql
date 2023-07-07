@@ -1,0 +1,6 @@
+CREATE TABLE todo_list (
+  task_id INT(5),
+  task_name VARCHAR(255),
+  description VARCHAR(1000),
+  is_completed CHAR(2),
+);
